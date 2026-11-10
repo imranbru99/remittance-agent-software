@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "remittance-agent-software",
+  "description": "Remittance Agent Software — FinTech Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Remittance agent desk for inbound payouts, KYC, cash limits, and daily settlement. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "fintech",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/remittance-agent-software"
+}
